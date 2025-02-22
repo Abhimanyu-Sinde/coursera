@@ -6,5 +6,5 @@ This repository contains a shell script (`simple-interest.sh`) to calculate **si
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
-   cd YourRepoName
+   git clone https://github.com/Abhimanyu-Sinde/coursera.git
+   cd coursera
